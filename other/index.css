@@ -1,0 +1,81 @@
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+p {
+	background-color: gold;
+}
+
+.one {
+	background-color: orange;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+.two {
+	background-color: goldenrod;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.parent {
+	padding: 10px;
+	background: rgb(0,0,0);
+}
+
+.clearfix {
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.wrap {
+	background: lightgray;
+	padding: 5px;
+}
+
+.block {
+	background: gray;
+	float: left;
+	width: 47%;
+	min-height: 100px;
+	margin: 0 1.5%;
+}
+
+.seprator {
+	border: 10px solid transparent;
+}
+
+.block3 {
+	background: gray;
+	float: left;
+	width: 31.3333333334%;
+	min-height: 100px;
+	margin: 0 1%;
+}
+
+.fourblocks {
+	background: gray;
+	float: left;
+	width: 23%;
+	min-height: 100px;
+	margin: 0 1%;
+}
+
+.fiveblocks {
+	background: gray;
+	float: left;
+	width: 18%;
+	min-height: 100px;
+	margin: 0 1%;
+}
+
+.sevenblocks {
+	background: gray;
+	float: left;
+	width: 12.2857142857%;
+	min-height: 100px;
+	margin: 0 1%;
+}

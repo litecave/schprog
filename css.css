@@ -1,0 +1,16 @@
+div, span {
+	background: lightgoldenrodyellow;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid dimgray;
+	border-radius: 5px;
+	height: 40px;
+	width: 300;
+	display: inline-block;
+}
+body {
+	margin: 0px;
+}
+.dsrr {
+	
+}

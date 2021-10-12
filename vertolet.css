@@ -1,0 +1,23 @@
+body {
+}
+p {
+	font-weight: normal;
+}
+.span-bold {
+	font-weight: bolder;
+}
+.span-red {
+	color: red;
+}
+.span-limegreen {
+	color: limegreen;
+}
+.span-underline {
+	text-decoration: underline;
+}
+.span-italic {
+	font-style: italic;
+}
+span {
+	color: darkred;
+}

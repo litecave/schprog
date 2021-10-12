@@ -1,0 +1,69 @@
+.border {
+	margin: 0px;
+	width: 159px;
+	height: 160px;
+	border: 5px solid black;
+	position: relative;
+}
+.black {
+	width: 20px;
+	height: 20px;
+	background: black;
+	position: absolute;
+}
+.o {
+	top: 0px;
+}
+
+.t {
+	top: 20px;
+}
+
+.th {
+	top: 40px;
+}
+
+.f {
+	top: 60px;
+}
+
+.fi {
+	top: 80px;
+}
+
+.s {
+	top: 100px;
+}
+
+.se {
+	top: 120px;
+}
+
+.e {
+	top: 140px;
+}
+.one2 {
+	left: 0px;
+}
+.two2 {
+	left: 40px;
+}
+.three2 {
+	left: 80px;
+}
+.four2 {
+	left: 120px;
+}
+
+.one {
+	left: 20px;
+}
+.two {
+	left: 60px;
+}
+.three {
+	left: 100px;
+}
+.four {
+	left: 140px;
+}

@@ -1,0 +1,30 @@
+.box {
+	position: relative;
+	width: 100px;
+	height:	100px;
+	border: 1px solid transparent;
+
+}
+.kindalol {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	background: orange;
+	left: 35px;
+}
+.kindaricklol {
+	position: absolute;
+	width: 60px;
+	height: 30px;
+	background: lightgreen;
+	top: 20px;
+	left: 21px;
+}
+.ll {
+	position: absolute;
+	widht: 100px;
+	height: 40px;
+	background: red;
+	top: 40px;
+	left: 0px;
+}

@@ -1,0 +1,15 @@
+.test {
+	width: 60px;
+	height: 60px;
+	background: lightgoldenrodyellow;
+	position: fixed;
+	left: 1px;
+	right: 1px;
+	bottom: 1px;
+	top: 1px;
+}
+
+input[type="checkbox"] {
+	position: relative;
+	top: 2px;
+}
